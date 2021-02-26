@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614376539558,
+  "timestamp": 1614379958277,
   "index": "/jg-docs/index.html",
   "assetGroups": [
     {
@@ -136,8 +136,8 @@
         "/jg-docs/polyfills-dom-es5.be8f9b43841a5717dc94.js",
         "/jg-docs/polyfills-es2015.54595587f5305fc14bab.js",
         "/jg-docs/polyfills-es5.6516af7aa46da5d111f5.js",
-        "/jg-docs/runtime-es2015.682c34f40ead72c60d1a.js",
-        "/jg-docs/runtime-es5.682c34f40ead72c60d1a.js",
+        "/jg-docs/runtime-es2015.4ed804ed8ea833a862e6.js",
+        "/jg-docs/runtime-es5.4ed804ed8ea833a862e6.js",
         "/jg-docs/scripts.d02ea4606488be08bead.js",
         "/jg-docs/styles.475e8f66e36f943a4218.css"
       ],
@@ -333,7 +333,7 @@
     "/jg-docs/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/jg-docs/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/jg-docs/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/jg-docs/index.html": "38aa59f8763d2b9709a5168430e9ad26a3807220",
+    "/jg-docs/index.html": "14981710b4f7284755ddc6abc50bd932b9a95415",
     "/jg-docs/main-es2015.ba2389fc114556feb1b6.js": "80f1baff90cb1357b89a39aba46ab67aa594811a",
     "/jg-docs/main-es5.ba2389fc114556feb1b6.js": "1804e25520d1954500b9522bac1103af6644db3a",
     "/jg-docs/polyfills-core-js-es2015.22f1882a210e2656646e.js": "f007c630c357ee7eeec2289a6cfc013dbcbe6fe9",
@@ -344,8 +344,8 @@
     "/jg-docs/polyfills-dom-es5.be8f9b43841a5717dc94.js": "e8e1deb998b0930ba0a33bcfd116772f27b0ea25",
     "/jg-docs/polyfills-es2015.54595587f5305fc14bab.js": "2fa48830b4401d70118ee46453e48d98e4b32031",
     "/jg-docs/polyfills-es5.6516af7aa46da5d111f5.js": "5041022bc03e25df716f70d0d0d755b624b9ffa4",
-    "/jg-docs/runtime-es2015.682c34f40ead72c60d1a.js": "ed3e77f486cf31004d5d6e021b2be14fdf71e454",
-    "/jg-docs/runtime-es5.682c34f40ead72c60d1a.js": "4a05167f725478a8ac4d769b800281c4f65a0015",
+    "/jg-docs/runtime-es2015.4ed804ed8ea833a862e6.js": "18ba86686ada37f3c6891d327e609fbfde8a2447",
+    "/jg-docs/runtime-es5.4ed804ed8ea833a862e6.js": "ec23cd6c72f647f8fe506f0f5d32593798832544",
     "/jg-docs/scripts.d02ea4606488be08bead.js": "4411bce02eedb7f00b8dac96095c2f8a030c3eb5",
     "/jg-docs/styles.475e8f66e36f943a4218.css": "087881efe71f258dc5e00b983f71257847fc5c96"
   },
