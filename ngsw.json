@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614371828486,
+  "timestamp": 1614374819075,
   "index": "/jg-docs/index.html",
   "assetGroups": [
     {
@@ -333,7 +333,7 @@
     "/jg-docs/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/jg-docs/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/jg-docs/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/jg-docs/index.html": "02f45fa4281066a94e3d1f6f4e025b971edfbb46",
+    "/jg-docs/index.html": "e51c23b388743fd04e81f949ef2ab66a48cc82d6",
     "/jg-docs/main-es2015.b91f2e523a3ae88fead0.js": "df9b7058bed9cb4331f7febc8f3ef41e9b7442a6",
     "/jg-docs/main-es5.b91f2e523a3ae88fead0.js": "c59a0be2218a0ef1ecde96cbda456c9bfc95def5",
     "/jg-docs/polyfills-core-js-es2015.22f1882a210e2656646e.js": "f007c630c357ee7eeec2289a6cfc013dbcbe6fe9",
