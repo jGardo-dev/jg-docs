@@ -1,6 +1,6 @@
 {
   "configVersion": 1,
-  "timestamp": 1614464042074,
+  "timestamp": 1614471786998,
   "index": "/jg-docs/index.html",
   "assetGroups": [
     {
@@ -11,8 +11,8 @@
         "ignoreVary": true
       },
       "urls": [
-        "/jg-docs/10-es2015.0c47cc543a4dbc24b401.js",
-        "/jg-docs/10-es5.0c47cc543a4dbc24b401.js",
+        "/jg-docs/10-es2015.a157062222f4978573dc.js",
+        "/jg-docs/10-es5.a157062222f4978573dc.js",
         "/jg-docs/11-es2015.437d72acf3f533b5063a.js",
         "/jg-docs/11-es5.437d72acf3f533b5063a.js",
         "/jg-docs/12-es2015.7051716fdd123b24c167.js",
@@ -136,8 +136,8 @@
         "/jg-docs/polyfills-dom-es5.be8f9b43841a5717dc94.js",
         "/jg-docs/polyfills-es2015.54595587f5305fc14bab.js",
         "/jg-docs/polyfills-es5.6516af7aa46da5d111f5.js",
-        "/jg-docs/runtime-es2015.2c2e77eded15297eb0e2.js",
-        "/jg-docs/runtime-es5.2c2e77eded15297eb0e2.js",
+        "/jg-docs/runtime-es2015.00b527ebaa521649441f.js",
+        "/jg-docs/runtime-es5.00b527ebaa521649441f.js",
         "/jg-docs/scripts.d02ea4606488be08bead.js",
         "/jg-docs/styles.475e8f66e36f943a4218.css"
       ],
@@ -188,8 +188,8 @@
   ],
   "dataGroups": [],
   "hashTable": {
-    "/jg-docs/10-es2015.0c47cc543a4dbc24b401.js": "997bbf3400fb614b367ce0b16440ba2fc168e221",
-    "/jg-docs/10-es5.0c47cc543a4dbc24b401.js": "6c1da40583ad2ecea364986277d6a42a58a6ed96",
+    "/jg-docs/10-es2015.a157062222f4978573dc.js": "e39e19856ee51b3fb0c50286ff47d7c45e1f520b",
+    "/jg-docs/10-es5.a157062222f4978573dc.js": "532b55bf569589d0c2be4893fb9d7924ca26efb2",
     "/jg-docs/11-es2015.437d72acf3f533b5063a.js": "57a6f37f7ece6d0d82f2cbf0c1e0c25d8f8952a8",
     "/jg-docs/11-es5.437d72acf3f533b5063a.js": "1670aca516f2c01d130fb3334976f2da7d9ccd3e",
     "/jg-docs/12-es2015.7051716fdd123b24c167.js": "7649a79404ab8d3b65ce5d9f3bf7827ccc029bae",
@@ -333,7 +333,7 @@
     "/jg-docs/fontawesome-webfont.8b43027f47b20503057d.eot": "d980c2ce873dc43af460d4d572d441304499f400",
     "/jg-docs/fontawesome-webfont.c1e38fd9e0e74ba58f7a.svg": "98a8aa5cf7d62c2eff5f07ede8d844b874ef06ed",
     "/jg-docs/fontawesome-webfont.f691f37e57f04c152e23.woff": "28b782240b3e76db824e12c02754a9731a167527",
-    "/jg-docs/index.html": "67755740cce420fe18657cdbdac87e072340f576",
+    "/jg-docs/index.html": "ce8204c3e597da5a36eaaf0ecc3ee5ddf9039f7c",
     "/jg-docs/main-es2015.b119fe9dc05095d1bf19.js": "2a050097dc8fc88f0b7c343a883e42cebb47b702",
     "/jg-docs/main-es5.b119fe9dc05095d1bf19.js": "72ca66ada573c9f38a591bfd66c144f5a2d81d0d",
     "/jg-docs/polyfills-core-js-es2015.22f1882a210e2656646e.js": "f007c630c357ee7eeec2289a6cfc013dbcbe6fe9",
@@ -344,8 +344,8 @@
     "/jg-docs/polyfills-dom-es5.be8f9b43841a5717dc94.js": "e8e1deb998b0930ba0a33bcfd116772f27b0ea25",
     "/jg-docs/polyfills-es2015.54595587f5305fc14bab.js": "2fa48830b4401d70118ee46453e48d98e4b32031",
     "/jg-docs/polyfills-es5.6516af7aa46da5d111f5.js": "5041022bc03e25df716f70d0d0d755b624b9ffa4",
-    "/jg-docs/runtime-es2015.2c2e77eded15297eb0e2.js": "222cfb3c9778b46053b7de5a85fa898e9d4a3b7a",
-    "/jg-docs/runtime-es5.2c2e77eded15297eb0e2.js": "b97177abf5a82dfbfc4f2cf6eeac607f93456a95",
+    "/jg-docs/runtime-es2015.00b527ebaa521649441f.js": "1daad21bb4ddf61c874e783a52a629812a756dd4",
+    "/jg-docs/runtime-es5.00b527ebaa521649441f.js": "b4d4855bcaa40c36f5379e2c0682ebf5252ce3ae",
     "/jg-docs/scripts.d02ea4606488be08bead.js": "4411bce02eedb7f00b8dac96095c2f8a030c3eb5",
     "/jg-docs/styles.475e8f66e36f943a4218.css": "087881efe71f258dc5e00b983f71257847fc5c96"
   },
