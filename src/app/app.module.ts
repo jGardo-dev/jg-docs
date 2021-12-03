@@ -22,7 +22,9 @@ import { MockService } from './util/mock.service';
         FormsModule, // make sure FormsModule is imported to make ngModel work
         LMarkdownEditorModule,
         IonicModule.forRoot(),
-        IonicStorageModule.forRoot(),
+        IonicStorageModule.forRoot({
+            name: btoa((document.getElementsByTagName('base')[0] || {}).href)
+        }),
         AppRoutingModule,
         UtilModule
         // ServiceWorkerModule.register('./ngsw-worker.js', { enabled: environment.production })
